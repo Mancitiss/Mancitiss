@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mancitiss
-- 👀 I’m interested in love
-- 🌱 I’m currently learning how to date a girl and python
-- 💞️ I’m looking to collaborate on ptojects
-- 📫 How to reach me ... if you see the name "mancitiss" anywhere on the internet, it's me!
+- @mancitiss | he / him | Backend Developer, Music Enthusiast | Unraveling the mysteries of the micro-scale world in both computer programs and real life particles.
 
 <!---
 Mancitiss/Mancitiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
