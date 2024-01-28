@@ -1,7 +1,7 @@
 - @mancitiss  
 - he / him  
 - Backend Developer, Music Enthusiast  
-- Unraveling the mysteries of the micro-scale world in both computer programs and real life particles.  
+- I make things that can make my virtual life easier.
 
 <!---
 Mancitiss/Mancitiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
