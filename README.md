@@ -1,7 +1,7 @@
 - @mancitiss  
-- he / him  
-- Backend Developer, Music Enthusiast  
-- I make things that can make my virtual life easier.
+- he / him  / she / her / they
+- Backend Developer, Music Enthusiast, Gamer
+- I make things that can help my virtual life.
 
 <!---
 Mancitiss/Mancitiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
